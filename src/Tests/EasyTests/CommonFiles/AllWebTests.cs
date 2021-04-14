@@ -83,7 +83,7 @@ namespace Web.Tests{
                 adapter.TestModelViewInheritance();
                 adapter.TestPositionInListView();
                 
-#if NETCOREAPP3_1
+#if NET5_0
                 await adapter.TestJobScheduler();
 #endif
             });
