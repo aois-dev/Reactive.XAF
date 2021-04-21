@@ -41,5 +41,4 @@
       <HintPath>..\..\..\bin\Xpand.XAF.Modules.ViewWizard.dll</HintPath>
     </Reference>
   </ItemGroup>
-  <Import Project="..\..\..\.paket\Paket.Restore.targets" />
 </Project>

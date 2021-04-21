@@ -35,5 +35,4 @@
       <HintPath>..\..\..\bin\Xpand.TestsLib.Common.dll</HintPath>
     </Reference>
   </ItemGroup>
-  <Import Project="..\..\..\.paket\Paket.Restore.targets" />
 </Project>

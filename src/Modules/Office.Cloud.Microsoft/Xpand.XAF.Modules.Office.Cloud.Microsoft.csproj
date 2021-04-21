@@ -40,5 +40,4 @@
     <None Remove="Images\Microsoft.svg" />
     <EmbeddedResource Include="Images\Microsoft.svg" />
   </ItemGroup>
-  <Import Project="..\..\..\.paket\Paket.Restore.targets" />
 </Project>

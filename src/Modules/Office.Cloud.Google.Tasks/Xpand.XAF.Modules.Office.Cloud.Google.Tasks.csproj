@@ -52,5 +52,4 @@
       <SubType>Component</SubType>
     </Compile>
   </ItemGroup>
-  <Import Project="..\..\..\.paket\Paket.Restore.targets" />
 </Project>

@@ -63,5 +63,4 @@
       <SpecificVersion>false</SpecificVersion>
     </Reference>
   </ItemGroup>
-  <Import Project="..\..\..\.paket\Paket.Restore.targets" />
 </Project>

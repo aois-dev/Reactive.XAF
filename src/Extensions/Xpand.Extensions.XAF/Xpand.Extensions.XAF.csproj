@@ -35,5 +35,4 @@
       <DependentUpon>NonPersistentBaseObject.cs</DependentUpon>
     </Compile>
   </ItemGroup>
-  <Import Project="..\..\..\.paket\Paket.Restore.targets" />
 </Project>

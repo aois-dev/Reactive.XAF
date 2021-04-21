@@ -41,5 +41,4 @@
       <HintPath>..\..\..\bin\Xpand.XAF.Modules.SuppressConfirmation.dll</HintPath>
     </Reference>
   </ItemGroup>
-  <Import Project="..\..\..\.paket\Paket.Restore.targets" />
 </Project>

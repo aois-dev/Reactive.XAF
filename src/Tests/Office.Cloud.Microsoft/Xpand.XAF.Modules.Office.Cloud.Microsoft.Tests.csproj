@@ -54,5 +54,4 @@
   <ItemGroup>
     <Folder Include="BusinessObjects\" />
   </ItemGroup>
-  <Import Project="..\..\..\.paket\Paket.Restore.targets" />
 </Project>

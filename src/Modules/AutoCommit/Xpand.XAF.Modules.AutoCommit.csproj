@@ -39,5 +39,4 @@
   <ItemGroup>
     <None Include="Readme.md" />
   </ItemGroup>
-  <Import Project="..\..\..\.paket\Paket.Restore.targets" />
 </Project>
